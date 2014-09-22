@@ -10,3 +10,7 @@
 [submodule "imap_monitor"]
 	path = imap_monitor
 	url = https://gist.github.com/d4d2cdd192ff692f93d7.git
+[submodule "procimap_py2.7"]
+	path = procimap_py2.7
+	url = https://github.com/n3tn0/procimap.git
+	branch = python2.7
