@@ -25,12 +25,14 @@
 
 
 """
+import sys
+sys.path.insert(0, '/home/tnoto9/chariot')
 
 import mailbox
 from ConfigParser import ConfigParser
 
-import ImapServer
-import ImapMailbox
+from procimap_py2_7.ProcImap.Utils.ImapServer import ImapServer
+from procimap_py2_7.ProcImap.Utils.ImapMailbox import ImapMailbox
 
 class UnknownMailboxTypeError(Exception):
     """ Raised when there is a mailbox type in the config file that is
@@ -112,7 +114,7 @@ class MailboxFactory:
         self.set_type('mh', mailbox.MH, standard_pathgenerator)
         self.set_type('babyl', mailbox.Babyl, standard_pathgenerator)
         self.set_type('mmdf', mailbox.MMDF, standard_pathgenerator)
-        self.set_type('imap', ImapMailbox.ImapMailbox, imap_pathgenerator)
+        self.set_type('imap', ImapMailbox, imap_pathgenerator)
         self._configparser = ConfigParser()
         self._configparser.read(configfilename)
 
@@ -221,7 +223,7 @@ def imap_pathgenerator(optionsdict):
               "IMAP Mailbox object needs the following parameters\n " \
               + "'mailbox', 'server', 'username', 'password'.\n" \
               + "The 'ssl' and 'port' parameters are optional."
-    server = ImapServer.ImapServer(serveraddress, username, password, ssl, port)
+    server = ImapServer(serveraddress, username, password, ssl, port)
     return(tuple((server, name)))
 
 
