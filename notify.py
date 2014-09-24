@@ -7,7 +7,7 @@
     messages on the server.
 """
 
-from ProcImap.Utils.MailboxFactory import MailboxFactory
+from procimap_py2_7.ProcImap.Utils.MailboxFactory import MailboxFactory
 from time import time
 import sys
 import os
