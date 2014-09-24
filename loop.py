@@ -1,2 +1,2 @@
 import os
-os.system('nohup notify.py')
+os.system('nohup python notify.py')
