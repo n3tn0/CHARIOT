@@ -29,7 +29,7 @@ import os
 from email.generator import Generator
 from cStringIO import StringIO
 
-from ProcImap.ImapMessage import ImapMessage
+from procimap_py2_7.ProcImap.ImapMessage import ImapMessage
 
 class AddressListFile:
     """ This class wraps around a file containing emailadresses.

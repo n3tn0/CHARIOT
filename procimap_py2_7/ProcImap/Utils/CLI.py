@@ -30,7 +30,7 @@
     place for a variety of tools.
 """
 
-from ProcImap.Utils.MailboxFactory import MailboxFactory
+from procimap_py2_7.ProcImap.Utils.MailboxFactory import MailboxFactory
 
 from optparse import OptionParser, IndentedHelpFormatter
 import os

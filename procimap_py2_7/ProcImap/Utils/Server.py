@@ -22,7 +22,7 @@
     ImapServer/ImapMailbox.
 """
 import email
-from ProcImap.Utils.Processing import put_through_pager
+from procimap_py2_7.ProcImap.Utils.Processing import put_through_pager
 
 DEFAULT_PAGER = 'less'
 
