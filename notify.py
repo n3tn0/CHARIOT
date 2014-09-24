@@ -27,6 +27,7 @@ try:
 
     unseen = inbox.get_unseen_uids()
 except:
+    print 'Except'
     sys.exit(0)
 
 
