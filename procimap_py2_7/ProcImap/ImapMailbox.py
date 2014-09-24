@@ -29,8 +29,8 @@ from cStringIO import StringIO
 from mailbox import Mailbox
 from mailbox import Message
 
-from ProcImap.ImapServer import ImapServer
-from ProcImap.ImapMessage import ImapMessage
+from procimap_py2_7.ProcImap.ImapServer import ImapServer
+from procimap_py2_7.ProcImap.ImapMessage import ImapMessage
 
 
 FIX_BUGGY_IMAP_FROMLINE = False # I used this for the standard IMAP server
