@@ -19,8 +19,7 @@ import email
 try:
     inbox = MailboxFactory("mailboxes.cfg")['GVoice']
     picklefile = "notify.pickle"
-    imageslist = "pictures.txt"
-
+    #imageslist = "pictures.txt"
     notifytimeout = 3600
 
     unread_mails = {}
