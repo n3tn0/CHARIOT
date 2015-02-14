@@ -1,9 +1,3 @@
-[submodule "modules/--branch"]
-	path = modules/--branch
-	url = https://github.com/n3tn0/opprimo.git
-[submodule "modules/bury"]
-	path = modules/bury
-	url = https://github.com/n3tn0/opprimo.git
 [submodule "d4d2cdd192ff692f93d7"]
 	path = d4d2cdd192ff692f93d7
 	url = https://gist.github.com/d4d2cdd192ff692f93d7.git
