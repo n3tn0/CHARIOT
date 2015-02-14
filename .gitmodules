@@ -12,3 +12,7 @@
 	path = modules/Opprimo
 	url = https://github.com/n3tn0/Opprimo/
 	branch = chariotmodule
+[submodule "chariot/modules/opprimo"]
+	path = chariot/modules/opprimo
+	url = https://github.com/n3tn0/opprimo
+	branch = chariotmodule
