@@ -14,4 +14,5 @@ module = command[0:command.find(' ')]
 folder = module.lower()
 finalcmd = 'python modules/' + folder + '/main.py' + command[command.find(' '):-1]
 print finalcmd
+print 'on my wayyy'
 os.system(finalcmd)
