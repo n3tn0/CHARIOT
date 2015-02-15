@@ -31,8 +31,8 @@ sys.path.insert(0, '../../../')
 import mailbox
 from ConfigParser import ConfigParser
 
-from procimap_py2_7.ProcImap.Utils.ImapServer import ImapServer
-from procimap_py2_7.ProcImap.Utils.ImapMailbox import ImapMailbox
+from procimap_py2_7.ProcImap.ImapServer import ImapServer
+from procimap_py2_7.ProcImap.ImapMailbox import ImapMailbox
 
 class UnknownMailboxTypeError(Exception):
     """ Raised when there is a mailbox type in the config file that is
