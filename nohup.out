@@ -1,0 +1,4 @@
+  File "notify.py", line 29
+    print 'Except'
+                 ^
+SyntaxError: Missing parentheses in call to 'print'
