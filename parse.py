@@ -6,7 +6,7 @@ import os
 output = open('output.txt', 'r')
 text = output.read()
 
-beginning, discard1 = text.split('...')1
+beginning, discard1 = text.split('...')
 
 discard2,command = beginning.split('\n')
 output.close()
