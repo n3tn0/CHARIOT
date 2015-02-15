@@ -26,7 +26,7 @@
 
 """
 import sys
-sys.path.insert(0, '/home/tnoto9/chariot')
+sys.path.insert(0, '../../../')
 
 import mailbox
 from ConfigParser import ConfigParser
