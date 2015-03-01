@@ -122,9 +122,7 @@ def parseraw(id):
     path = os.path.dirname(sys.executable)
     finalcmd = '%s/python modules/%s/main.py%s' % (path, module, parameters)
 
-    print finalcmd
     os.system(finalcmd)
-    print 'RAN!'
 
     imap.CLOSE()
     imap.LOGOUT()

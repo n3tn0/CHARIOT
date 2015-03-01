@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1a1c501-76ad-418b-9523-01504f9af53c" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Timothy\PycharmProjects\CHARIOT\parse.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/opprimo" afterPath="$PROJECT_DIR$/modules/opprimo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/chariot.iml" afterPath="$PROJECT_DIR$/.idea/chariot.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="chariot.iws" />
@@ -31,18 +32,18 @@
       <file leaf-file-name="config.cfg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.cfg">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
               <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="871" max-vertical-offset="1360">
-              <caret line="122" column="19" selection-start-line="122" selection-start-column="19" selection-end-line="122" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.84367245" vertical-offset="794" max-vertical-offset="1404">
+              <caret line="124" column="23" selection-start-line="124" selection-start-column="23" selection-end-line="124" selection-end-column="23" />
               <folding>
                 <element signature="e#202#647#0" expanded="false" />
                 <element signature="e#1769#1823#0" expanded="false" />
@@ -50,18 +51,8 @@
                 <element signature="e#2131#2183#0" expanded="false" />
                 <element signature="e#3331#3532#0" expanded="false" />
                 <element signature="e#3578#3653#0" expanded="false" />
-                <element signature="e#4351#4443#0" expanded="false" />
+                <element signature="e#4315#4407#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/modules/opprimo/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45953003" vertical-offset="572" max-vertical-offset="1156">
-              <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -70,7 +61,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/modules/opprimo" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$/modules/opprimo" value="73f38b601d7a7d1891268f2a195e0a6cc2416d6a" />
@@ -92,16 +83,15 @@
         <option value="$PROJECT_DIR$/modules/opprimo/__init__.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/__init__.py" />
-        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/modules/opprimo/main.py" />
+        <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="45" />
+    <option name="width" value="1325" />
+    <option name="height" value="772" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -126,41 +116,45 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CHARIOT" />
+              <option name="myItemId" value="chariot" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CHARIOT" />
+              <option name="myItemId" value="chariot" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CHARIOT" />
+              <option name="myItemId" value="chariot" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CHARIOT" />
+              <option name="myItemId" value="chariot" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CHARIOT" />
+              <option name="myItemId" value="chariot" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="modules" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opprimo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -177,7 +171,7 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.Opprimo test">
+  <component name="RunManager" selected="Python.main.py">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -307,7 +301,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Python27\python.exe" />
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -439,28 +433,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="45" y="0" width="1325" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24537037" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32843137" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33830845" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3267974" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31699347" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3267974" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24553572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31635803" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24776785" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3267974" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32843137" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -493,17 +487,44 @@
           <line>64</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>109</line>
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
       </breakpoints>
       <option name="time" value="33" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1098" max-vertical-offset="1440">
+          <caret line="122" column="19" selection-start-line="122" selection-start-column="19" selection-end-line="122" selection-end-column="19" />
+          <folding>
+            <element signature="e#202#647#0" expanded="false" />
+            <element signature="e#1769#1823#0" expanded="false" />
+            <element signature="e#1905#3252#0" expanded="false" />
+            <element signature="e#2131#2183#0" expanded="false" />
+            <element signature="e#3331#3532#0" expanded="false" />
+            <element signature="e#3578#3653#0" expanded="false" />
+            <element signature="e#4315#4407#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/opprimo/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1224">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config.cfg">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170">
@@ -523,7 +544,7 @@
             <element signature="e#2131#2183#0" expanded="false" />
             <element signature="e#3331#3532#0" expanded="false" />
             <element signature="e#3578#3653#0" expanded="false" />
-            <element signature="e#4351#4443#0" expanded="false" />
+            <element signature="e#4315#4407#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -555,26 +576,7 @@
             <element signature="e#2131#2183#0" expanded="false" />
             <element signature="e#3331#3532#0" expanded="false" />
             <element signature="e#3578#3653#0" expanded="false" />
-            <element signature="e#4351#4443#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/IMAPPush.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1216" max-vertical-offset="1853">
-          <caret line="261" column="0" selection-start-line="261" selection-start-column="0" selection-end-line="261" selection-end-column="0" />
-          <folding>
-            <element signature="e#124#332#1" expanded="false" />
-            <element signature="e#1143#2060#0" expanded="false" />
-            <element signature="e#2297#2475#0" expanded="false" />
-            <element signature="e#2721#3681#0" expanded="false" />
-            <element signature="e#3879#4520#0" expanded="false" />
-            <element signature="e#4689#5322#0" expanded="false" />
-            <element signature="e#5484#5682#0" expanded="false" />
-            <element signature="e#5874#8569#0" expanded="false" />
-            <element signature="e#6050#6110#0" expanded="false" />
-            <element signature="e#8573#8702#1" expanded="false" />
+            <element signature="e#4315#4407#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -587,25 +589,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/IMAPPush.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="5321">
-          <caret line="5" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <element signature="e#124#332#1" expanded="false" />
-            <element signature="e#1143#2060#0" expanded="false" />
-            <element signature="e#2297#2475#0" expanded="false" />
-            <element signature="e#2721#3681#0" expanded="false" />
-            <element signature="e#3879#4520#0" expanded="false" />
-            <element signature="e#4689#5322#0" expanded="false" />
-            <element signature="e#5484#5682#0" expanded="false" />
-            <element signature="e#5874#8569#0" expanded="false" />
-            <element signature="e#6050#6110#0" expanded="false" />
-            <element signature="e#8573#8702#1" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config.cfg">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
@@ -614,30 +597,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/IMAPPush.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2777" max-vertical-offset="6477">
-          <caret line="193" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="375" selection-end-column="0" />
-          <folding>
-            <element signature="e#124#332#1" expanded="false" />
-            <element signature="e#1143#2060#0" expanded="false" />
-            <element signature="e#2297#2475#0" expanded="false" />
-            <element signature="e#2721#3681#0" expanded="false" />
-            <element signature="e#3879#4520#0" expanded="false" />
-            <element signature="e#4689#5322#0" expanded="false" />
-            <element signature="e#5484#5682#0" expanded="false" />
-            <element signature="e#5874#8569#0" expanded="false" />
-            <element signature="e#6050#6110#0" expanded="false" />
-            <element signature="e#8573#8702#1" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/imaplib2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.936803" vertical-offset="20525" max-vertical-offset="43792">
           <caret line="1237" column="0" selection-start-line="1237" selection-start-column="0" selection-end-line="1237" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -645,33 +608,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1734694" vertical-offset="0" max-vertical-offset="392">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python27/Lib/threading.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33157894" vertical-offset="12641" max-vertical-offset="22729">
-          <caret line="751" column="8" selection-start-line="751" selection-start-column="8" selection-end-line="751" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/IMAPPush.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7364341" vertical-offset="1466" max-vertical-offset="1853">
-          <caret line="261" column="0" selection-start-line="261" selection-start-column="0" selection-end-line="261" selection-end-column="0" />
-          <folding>
-            <element signature="e#124#332#1" expanded="false" />
-            <element signature="e#1143#2060#0" expanded="false" />
-            <element signature="e#2297#2475#0" expanded="false" />
-            <element signature="e#2721#3681#0" expanded="false" />
-            <element signature="e#3879#4520#0" expanded="false" />
-            <element signature="e#4689#5322#0" expanded="false" />
-            <element signature="e#5484#5682#0" expanded="false" />
-            <element signature="e#5874#8569#0" expanded="false" />
-            <element signature="e#6050#6110#0" expanded="false" />
-            <element signature="e#8573#8702#1" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -691,10 +627,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/modules/opprimo/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.028892456" vertical-offset="18" max-vertical-offset="1278">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="871" max-vertical-offset="1360">
-          <caret line="122" column="19" selection-start-line="122" selection-start-column="19" selection-end-line="122" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.84367245" vertical-offset="794" max-vertical-offset="1404">
+          <caret line="124" column="23" selection-start-line="124" selection-start-column="23" selection-end-line="124" selection-end-column="23" />
           <folding>
             <element signature="e#202#647#0" expanded="false" />
             <element signature="e#1769#1823#0" expanded="false" />
@@ -702,16 +646,8 @@
             <element signature="e#2131#2183#0" expanded="false" />
             <element signature="e#3331#3532#0" expanded="false" />
             <element signature="e#3578#3653#0" expanded="false" />
-            <element signature="e#4351#4443#0" expanded="false" />
+            <element signature="e#4315#4407#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/opprimo/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45953003" vertical-offset="572" max-vertical-offset="1156">
-          <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
