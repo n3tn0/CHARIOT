@@ -8,11 +8,7 @@
 	path = procimap_py2.7
 	url = https://github.com/n3tn0/procimap.git
 	branch = python2.7
-[submodule "bury"]
-	path = modules/Opprimo
-	url = https://github.com/n3tn0/Opprimo/
-	branch = chariotmodule
-[submodule "chariot/modules/opprimo"]
-	path = chariot/modules/opprimo
+[submodule "modules/opprimo"]
+	path = modules/opprimo
 	url = https://github.com/n3tn0/opprimo
 	branch = chariotmodule
