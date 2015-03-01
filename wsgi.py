@@ -306,4 +306,4 @@ if __name__ == '__main__':
     # Wait for a single request, serve it and quit.
     httpd.handle_request()
 
-os.system('python main.py')
+os.system('python __main__.py')
