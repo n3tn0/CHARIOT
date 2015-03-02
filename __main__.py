@@ -1,5 +1,5 @@
 __author__ = 'n3tn0'
-__version__ = 'ALPHA'
+__version__ = 'BETA'
 
 import imaplib2
 import os
