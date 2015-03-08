@@ -146,6 +146,8 @@ def returnmessage(phone):
     gvoice = Voice()
     gvoice.login()
     gvoice.send_sms(phone, message)
+    response.close()
+    #os.remove('response.txt')
 
 # Compile the actions into a function
 def main():
